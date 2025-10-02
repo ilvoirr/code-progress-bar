@@ -1,5 +1,7 @@
 project link - https://varun-sivanesan-code-progress-bar.vercel.app/ 
 
+[![Watch Code Progress Bar](https://img.youtube.com/vi/JX34q_AWvDI/hqdefault.jpg)](https://youtu.be/JX34q_AWvDI)
+
 
 # Code Progress Bar
 
